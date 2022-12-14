@@ -28,5 +28,5 @@ Uma página de buscar de repositórios do GitHub utilizando React e os conceitos
 
 <br>
 
-![](../my-wiki/src/assets/view.png)
+![](./src/assets/view.png)
 
